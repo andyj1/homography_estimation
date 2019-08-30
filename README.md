@@ -19,11 +19,14 @@
     - panoramic, 360 deg image view for VR
 
 - Demonstration
-  - Inputs
-    ![Inputs](Input&#32;Images/input.png)
+  - Images
+  
+    ![Inputs](Input&#32;Images/input.PNG)
   - Detected matching regions
+  
     ![Output](Output&#32;Images/output.png)
   - Stitched together
+  
     ![Stitched](Output&#32;Images/planarStitched.png)
 
 - Next steps
